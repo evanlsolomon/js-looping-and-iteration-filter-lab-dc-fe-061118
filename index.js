@@ -11,3 +11,7 @@ function fuzzyMatch (drivers,partialName){
     return driverName.slice(0, lengthOfName) === partialName;
   })
 }
+
+function matchName (drivers, name){
+  return
+}
